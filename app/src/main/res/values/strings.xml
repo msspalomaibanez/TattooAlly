@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TattooAlly</string>
+    <string name="login_txt">Iniciar sesión</string>
+    <string name="registro_txt">Registrarse</string>
 </resources>
