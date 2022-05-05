@@ -8,4 +8,9 @@
     <string name="nom_usu_placeholder">Nickname o correo electrónico</string>
     <string name="pass_usu_txt">Contraseña</string>
     <string name="pass_usu_placeholder">***************</string>
+    <!--registro activity-->
+    <string name="registro_txt_2">Registro</string>
+    <string name="nick_txt">Nickname</string>
+    <string name="email_txt">Correo electrónico</string>
+    <string name="pass_usu_txt_2">Repite la contraseña</string>
 </resources>
