@@ -13,7 +13,7 @@
         app:srcCompat="@drawable/tattooally" />
 
     <Button
-        android:id="@+id/login_btn"
+        android:id="@+id/registro_btn"
         android:layout_width="1000px"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"

@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
-        android:text="@string/login_txt"
+        android:text="@string/registro_txt_2"
         android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold" />
@@ -128,12 +128,12 @@
         android:minHeight="48dp" />
 
     <Button
-        android:id="@+id/login_btn"
+        android:id="@+id/registro_btn"
         android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:backgroundTint="#C4C4C4"
-        android:text="@string/login_txt"
+        android:text="@string/registro_txt"
         android:textColor="@color/black" />
 
 </LinearLayout>
